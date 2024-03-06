@@ -7,5 +7,5 @@
 
 作業內容：  
 World Top 1000 companies in 2021 and 2022  
-分析2021及2022年度世界前1000公司的聯集、交集、差集
+分析2021及2022年度世界前1000公司的聯集、交集、差集  
 [csv檔案來源](https://www.kaggle.com/datasets/ramjasmaurya/fortune-1000-companieslatest)
