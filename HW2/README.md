@@ -9,9 +9,15 @@
 Here's a description of each column in the dataset:
 
 1. total_bill: The total bill amount, including the cost of food and drinks.
-  2. tip: The tip amount given by the customer.
-  3. sex: The gender of the customer (e.g., Male or Female).
-  4. smoker: Whether the customer is a smoker or not (e.g., Yes or No).
-  5. day: The day of the week when the transaction occurred (e.g., Sun, Sat, Thu, etc.).
-  6. time: The time of day when the transaction occurred, typically categorized as Lunch or Dinner.
-  7. size: The size of the party or group of customers.  
+
+3. tip: The tip amount given by the customer.
+
+4. sex: The gender of the customer (e.g., Male or Female).
+
+5. smoker: Whether the customer is a smoker or not (e.g., Yes or No).
+
+6. day: The day of the week when the transaction occurred (e.g., Sun, Sat, Thu, etc.).
+
+7. time: The time of day when the transaction occurred, typically categorized as Lunch or Dinner.
+
+8. size: The size of the party or group of customers.  
