@@ -22,5 +22,5 @@ Here's a description of each column in the dataset：
 
 8. size： The size of the party or group of customers.  
 
-透過將json資料進行資料視覺化，本次作業使用了 matplotlib 中的 scatter（x,y）散點圖呈現 total_bill 和 tip 之間的關係
+透過將json資料進行資料視覺化，本次作業使用了 matplotlib 中的 scatter（x,y）散點圖呈現 total_bill 和 tip 之間的關係  
 [csv檔案來源](https://www.kaggle.com/datasets/sakshisatre/tips-dataset?resource=download&select=tip.csv)
