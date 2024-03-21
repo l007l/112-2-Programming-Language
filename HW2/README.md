@@ -9,7 +9,7 @@
 Here's a description of each column in the dataset:  
   
 1.total_bill: The total bill amount, including the cost of food and drinks.  
-  
+   
 2. tip: The tip amount given by the customer.  
   
 3. sex: The gender of the customer (e.g., Male or Female).  
