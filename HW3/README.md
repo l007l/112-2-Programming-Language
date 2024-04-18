@@ -13,5 +13,6 @@
 作業內容：  
 爬取網站為[CakereResume](https://www.cakeresume.com/jobs?location_list%5B0%5D=Taiwan)  
 爬取資料為每筆應徵工作的工作簡介及薪資  
+透過正則表達式清洗資料只爬我要的薪資數據部分  
 
 dataframe輸出後的[csv檔案](https://github.com/l007l/112-2-Programming-Language/blob/main/HW3/output.csv)  [json檔案](https://github.com/l007l/112-2-Programming-Language/blob/main/HW3/output.json)
