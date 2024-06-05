@@ -10,3 +10,4 @@
 *  [作業三](https://github.com/l007l/112-2-Programming-Language/blob/main/HW3/%E7%B6%B2%E7%B5%A1%E7%88%AC%E8%9F%B2.ipynb)  [講解影片](https://youtu.be/UuwE9Z9tfUA)
 *  [作業四](https://github.com/l007l/112-2-Programming-Language/blob/main/HW4/%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98.ipynb)
 ##  專題連結區
+*  [畢業不失業](https://github.com/l007l/112-2-Programming-Language/blob/main/%E5%B0%88%E9%A1%8C/%E5%B0%88%E9%A1%8C(%E6%AD%A3%E5%BC%8F).ipynb)
